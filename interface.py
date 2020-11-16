@@ -17,7 +17,7 @@ def save_user(user):
     user.save_user()
 def display_user():
     """
-    Function to display existing user
+    Function to display  an existing user
     """
     return User.display_user()
 def login_user(username,password):
