@@ -22,7 +22,7 @@ def display_user():
     return User.display_user()
 def login_user(username,password):
     """
-    function that checks whether a user exist and then login the user in.
+    function that checks whether  user exist and then login the user in.
     """
   
     check_user = Credentials.verify_user(username,password)
