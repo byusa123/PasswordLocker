@@ -66,7 +66,7 @@ def check_credendtials(account):
 
 def generate_Password():
     '''
-    generates a random password for the user.
+    generates  random password for the user.
     '''
     auto_password=Credentials.generatePassword()
     return auto_password
