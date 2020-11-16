@@ -10,7 +10,7 @@ class User:
 
     def __init__(self, username, password):
         """
-        method that defines the properties of a user.
+        method that defines the properties of  user.
         """
         self.username = username
         self.password = password
