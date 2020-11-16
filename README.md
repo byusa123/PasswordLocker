@@ -1,4 +1,5 @@
 # PasswordLocker
+https://github.com/byusa123/passwardlocker.git
 ## Author
 byusa uwase giselle
 0784315067
@@ -12,7 +13,7 @@ amazing application that will help us manage our passwords and even generate new
 * Store my existing acounts login details for various accounts that i have registered for.
 * Generate new password for an account that i haven't registered for and store it with the account name.   
 * Delete stored account login details that i do now want anymore.
-* Copy my credentials to the clipboard
+* Copy my credentials 
 
 
 ## Installation / Setup instruction
