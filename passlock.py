@@ -3,7 +3,7 @@ import string
 import pyperclip
 class User:
     """
-    Create User class that generates new instances of a user.
+    Create User class that generates new instances of  user.
 
     """
     user_list = []
