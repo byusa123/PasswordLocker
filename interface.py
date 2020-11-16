@@ -73,7 +73,7 @@ def generate_Password():
 def copy_password(account):
     """
     A function that copies the password using the pyperclip framework
-    We import the framework then declare a function that copies the emails.
+    We import the framework then declare  function that copies the emails.
     """
     return Credentials.copy_password(account)
 
